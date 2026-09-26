@@ -1,5 +1,5 @@
 # ada-rhodes.github.io
-##Dr. Ada-Rhodes Wish's Digital Contact Card and Useful Links
+## Dr. Ada-Rhodes Wish's Digital Contact Card and Useful Links
 
 ## Who is she? 
 Dr. Ada-Rhodes Wish is an assistant professor of applied computing and human-centered computing in the University of Nebraska Omaha School of Interdisciplinary Informatics (Si2) and the current chair of the Game Programming and Design (GamePaD) program at UNO. She has extensive experience in both research and industry working on problems at the intersection of design, decisions, computational cognition, learning, and play. You can contact her through her [profile on the UNO website](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/adarhodes-short.php). In addition to her academic work she is currently one of the hosts of the podcast [Overworld: How Design Connects Great Games](https://www.patreon.com/OverworldPodcast).
