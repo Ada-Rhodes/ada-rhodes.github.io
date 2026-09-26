@@ -5,7 +5,7 @@
 Dr. Ada-Rhodes Wish is an assistant professor of applied computing and human-centered computing in the University of Nebraska Omaha School of Interdisciplinary Informatics (Si2) and the current chair of the Game Programming and Design (GamePaD) program at UNO. She has extensive experience in both research and industry working on problems at the intersection of design, decisions, computational cognition, learning, and play. You can contact her through her [profile on the UNO website](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/adarhodes-short.php). In addition to her academic work she is currently one of the hosts of the podcast [Overworld: How Design Connects Great Games](https://www.patreon.com/OverworldPodcast).
 
 ## Useful Game Design Links 
-Here is a list of useful free and open source tools for game design and development. 
+Here is a [list of useful free and open source tools for game design and development.](https://ada-rhodes.github.io/toolbox/game-design-tools) 
 ### Art
 - [Piskel](https://www.piskelapp.com/) - Online pixel art and animation tool 
 - [Blender](https://www.blender.org/) - 3D modeling and animation tool
