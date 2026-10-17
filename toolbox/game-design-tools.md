@@ -1,5 +1,5 @@
 # Useful Game Design Links 
-Here is a list of useful free and open source tools for game design and development. 
+Here is a list of useful free and open source tools for game design and development. For questions (and answers if you are lucky) reach out to (Dr. Ada-Rhodes Wish at UNO)[https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/adarhodes-short.php].
 ## Art
 - [Blender](https://www.blender.org/) - 3D modeling and animation tool
 - [Krita](https://krita.org/en/) - 2D vector graphics, digital painting, and animation
@@ -21,7 +21,9 @@ Here is a list of useful free and open source tools for game design and developm
 - [JSFXR](https://sfxr.me/) - A browser-based tool for creating sound effects
 
 ## Story
-- Story Bible Starter Booklet - A free tool for getting started on a game's story
+- [InkleWrite](https://www.inklestudios.com/inklewriter/) - Quick and easy tool for making interactive narratives.
+- [Story Bible Starter Booklet](https://github.com/Ada-Rhodes/ada-rhodes.github.io/blob/main/toolbox/The%20Story%20Bible%20Starter%20Book%20V2.docx) - A free tool for getting started on a game's story.
+- [Twine](https://twinery.org/) - An easy and quick tool for making interactive narrative. 
 
 # Team and Project Management
 ## Brainstorming
