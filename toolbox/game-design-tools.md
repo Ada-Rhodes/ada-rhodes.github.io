@@ -1,5 +1,5 @@
 # Useful Game Design Links 
-Here is a list of useful free and open source tools for game design and development. For questions (and answers if you are lucky) reach out to (Dr. Ada-Rhodes Wish at UNO)[https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/adarhodes-short.php].
+Here is a list of useful free and open source tools for game design and development. For questions (and answers if you are lucky) reach out to [Dr. Ada-Rhodes Wish at UNO](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/adarhodes-short.php).
 ## Art
 - [Blender](https://www.blender.org/) - 3D modeling and animation tool
 - [Krita](https://krita.org/en/) - 2D vector graphics, digital painting, and animation
