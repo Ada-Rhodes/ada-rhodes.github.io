@@ -3,6 +3,7 @@ Here is a list of useful free and open source tools for game design and developm
 ## Art
 - [Blender](https://www.blender.org/) - 3D modeling and animation tool
 - [Krita](https://krita.org/en/) - 2D vector graphics, digital painting, and animation
+- [LibreSprite](https://libresprite.github.io/#!/) - Tidy and portable application for pixel art and animation
 - [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight GPU-based voxel art editor and interactive path tracing renderer.
 - [Piskel](https://www.piskelapp.com/) - Online pixel art and animation tool
 - [SculptGL](https://stephaneginier.com/sculptgl/) - Free online 3D sculpting tool made by the dev behind Nomad Sculpt. 
